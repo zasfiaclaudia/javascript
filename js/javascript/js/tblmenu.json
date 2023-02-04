@@ -1,0 +1,24 @@
+[
+	{
+
+	"idmenu" : 1,
+	"idkategori" : 1,
+	"menu" : "Alpukat",
+	"harga" : 5000,
+	"jenis" : ["mentega","hass","kendil"],
+	"stok" : true,
+	"keterangan" : null
+
+},
+{
+
+	"idmenu" : 2,
+	"idkategori" : 1,
+	"menu" : "Anggur",
+	"harga" : 3000,
+	"jenis" : ["merah","ungu"],
+	"stok" : false,
+	"keterangan" : null
+
+}
+]
